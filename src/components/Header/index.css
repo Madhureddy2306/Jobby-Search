@@ -1,0 +1,56 @@
+.header-div {
+  background-color: #272727;
+  height: 12%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 0px;
+  position: sticky;
+  top: 0;
+}
+.li {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.click-logo-div {
+  width: 20%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-logo {
+  width: 85%;
+  cursor: pointer;
+}
+.home-jobs-div {
+  width: 10%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.home-link {
+  color: #f1f5f9;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.logout-btn {
+  background-color: #6366f1;
+  width: 12%;
+  height: 40px;
+  border-radius: 5px;
+  border-width: 0px;
+  color: #ffffff;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link-item {
+  text-decoration: none;
+  text-decoration-color: transparent;
+}

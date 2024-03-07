@@ -1,0 +1,145 @@
+.job-details-page {
+  background-color: transparent;
+  height: 100vh;
+  width: 100vw;
+}
+.job-card {
+  height: 88%;
+  width: 100%;
+  background-color: #000000;
+  overflow-y: auto;
+  padding: 1.5%;
+}
+.failure-div {
+  height: 88%;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.fail-img {
+  width: 60%;
+}
+.fail-h1 {
+  color: #ffffff;
+}
+.fail-p {
+  color: #ffffff;
+}
+.fail-btn {
+  background-color: #6366f1;
+  border-width: 0px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.loader-div-info {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.job-detailed-card {
+  background-color: #272727;
+  width: 98%;
+  height: 100%;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 0px;
+  margin: auto;
+}
+.desc-flex {
+  margin-top: 10px;
+  width: 110%;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.anchor {
+  color: #6366f1;
+  font-size: 15px;
+  font-weight: 400;
+  text-decoration-color: transparent;
+}
+.web-link {
+  color: #6366f1;
+  height: 20px;
+  width: 20px;
+  margin-bottom: 0px;
+}
+.icon-skill-p {
+  width: 28%;
+  height: 40px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.ul-list {
+  width: 100%;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.skill-icon {
+  height: 35px;
+  width: 35px;
+  margin-right: 10px;
+}
+.skill-p {
+  color: #ffffff;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+.life-at-com-div {
+  width: 100%;
+}
+.life-img {
+  width: 90%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.de {
+  color: #ffffff;
+  font-size: 15px;
+  margin: 0px;
+}
+.img {
+  width: 75%;
+  height: 110%;
+  background-size: cover;
+  border-radius: 5px;
+  margin-left: 1%;
+}
+.similar-div {
+  width: 95%;
+  margin-top: 10px;
+}
+.sim-list {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1%;
+}
+.sim-card {
+  width: 32%;
+  padding: 5px;
+  height: 38%;
+  border-radius: 8px;
+  background-color: #272727;
+  padding: 1%;
+}
+.location-div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
